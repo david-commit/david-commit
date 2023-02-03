@@ -68,3 +68,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=david-commit&show_icons=true&locale=en" alt="david-commit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-commit&" alt="david-commit" /></p>
+
+<img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DenisOuma&layout=compact"/>
+<img align = "left" width = "47%" src = "https://www.codewars.com/users/david-commit/badges/large"/>
