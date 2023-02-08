@@ -1,13 +1,11 @@
 # Hi 👋, I'm David Ondiege
 I'm a Fullstack web developer and IT support Engineer based in Nairobi, Kenya
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=david-commit&label=Profile%20views&color=0e75b6&style=flat" alt="david-commit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=david-commit&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="david-commit" />  <a href="https://twitter.com/incognito_098" target="blank"><img src="https://img.shields.io/twitter/follow/incognito_098?logo=twitter&style=for-the-badge" alt="incognito_098" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/incognito_098" target="blank"><img src="https://img.shields.io/twitter/follow/incognito_098?logo=twitter&style=for-the-badge" alt="incognito_098" /></a> </p>
-
-- Checkout my [Portfolio](https://davidondiege.pages.dev/)
+- 🖥️ Checkout my [Portfolio](https://davidondiege.pages.dev/)
 - 🌱 I’m currently learning **Tailwind CSS**
-- 📝 I’m looking to collaborate on Frontend or backend projects.
+- 📝 I’m looking to collaborate on Frontend and/or Backend projects.
 
 <h3>Connect with me:</h3>
 
