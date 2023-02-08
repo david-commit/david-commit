@@ -7,7 +7,7 @@ I'm a Fullstack web developer and IT support Engineer based in Nairobi, Kenya
 
 - Checkout my [Portfolio](https://davidondiege.pages.dev/)
 - 🌱 I’m currently learning **Tailwind CSS**
-- 🤔 I’m looking to collaborate on Ruby on Rails backend projects and learn Python
+- 📝 I’m looking to collaborate on Frontend or backend projects.
 
 <h3>Connect with me:</h3>
 
@@ -50,4 +50,9 @@ Github Stats
 
 <br >
 
+<!-- - 🌱 If you want to begin the journey of a web/application developer , I would recommend this course on [UDEMY](https://www.udemy.com/course/the-web-developer-bootcamp/)
+ -->
 
+## My Github Stats
+
+![David's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=davidondiege&theme=gotham&layout=compact)
