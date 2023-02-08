@@ -9,25 +9,36 @@ I'm a Fullstack web developer and IT support Engineer based in Nairobi, Kenya
 - 🌱 I’m currently learning **Tailwind CSS**
 - 🤔 I’m looking to collaborate on Ruby on Rails backend projects and learn Python
 
-<h3 align="left">Connect with me:</h3>
+<h3>Connect with me:</h3>
+
+<p align="left">
+  <a href="mailto:davidondiege@gmail.com" target="blank"><img align="center" src="https://svgshare.com/i/q8j.svg" alt="davidondiege@gmail.com" height="28" width="36" /></a>
+<a href="https://twitter.com/incognito_098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="incognito_098" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/david-ondiege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="incognito_098" height="30" width="40" /></a> 
+</p>
+
+<br />
 
 ![FRONTEND Badge](https://img.shields.io/badge/-FRONT_END-white?style=for-the-badge&labelColor=WHITE)
 
 [![HTML5 Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![React Badge](https://img.shields.io/badge/-React_Js-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 <br />
 
 ![BACKEND Badge](https://img.shields.io/badge/-BACK_END-white?style=for-the-badge&labelColor=WHITE)
 
 [![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=CC342D)](#)  [![Ruby on Rails Badge](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&labelColor=black&logo=rubyonrails&logoColor=CC0000)](#)  [![Ruby Sinatra Badge](https://img.shields.io/badge/-Sinatra-000000?style=for-the-badge&labelColor=black&logo=rubysinatra&logoColor=white)](#)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
-### Other Technologies
-These are technologies I'm still learning/I have worked with but only a little
 <br />
 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#)  [![Nodejs Badge](https://img.shields.io/badge/-NodeJs-3776AB?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3776AB)](#)  [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#)  [![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)](#)  
+![OTHER TECHNOLOGIES Badge](https://img.shields.io/badge/-OTHER_TECHNOLOGIES-white?style=for-the-badge&labelColor=WHITE)
+
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 <br />
+
+Github Stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=david-commit&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="david-commit" /></p>
 
 <details>
 <summary>
@@ -37,20 +48,11 @@ These are technologies I'm still learning/I have worked with but only a little
 <br >
 
 
-#### Github Stats
-
-![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=vincexiv&count_private=true&theme=tokyonight&hide=contribs,prs)
-  
 
 
 
 
 
-<p align="left">
-  <a href="mailto:davidondiege@gmail.com" target="blank"><img align="center" src="https://svgshare.com/i/q8j.svg" alt="davidondiege@gmail.com" height="28" width="36" /></a>
-<a href="https://twitter.com/incognito_098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="incognito_098" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/david-ondiege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="incognito_098" height="30" width="40" /></a> 
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -100,7 +102,7 @@ These are technologies I'm still learning/I have worked with but only a little
 <!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> -->
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=david-commit&show_icons=true&locale=en&layout=compact" alt="david-commit" /></p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=david-commit&show_icons=true&locale=en" alt="david-commit" /></p>
 
