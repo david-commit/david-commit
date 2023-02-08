@@ -5,14 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/incognito_098" target="blank"><img src="https://img.shields.io/twitter/follow/incognito_098?logo=twitter&style=for-the-badge" alt="incognito_098" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 📫 How to reach me **davidondiege@gmail.com**
+- 🌱 I’m currently learning **Tailwind CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/incognito_098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="incognito_098" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/david-ondiege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="incognito_098" height="30" width="40" /></a>
+<a href="mailto:davidondiege@gmail.com" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg" alt="davidondiege@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
