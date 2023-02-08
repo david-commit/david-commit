@@ -1,13 +1,51 @@
-<h1 align="center">Hi 👋, I'm David Ondiege</h1>
-<h3 align="center">A passionate developer from Nairobi, Kenya</h3>
+# Hi 👋, I'm David Ondiege
+I'm a Fullstack web developer and IT support Engineer based in Nairobi, Kenya
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-commit&label=Profile%20views&color=0e75b6&style=flat" alt="david-commit" /> </p>
 
 <p align="left"> <a href="https://twitter.com/incognito_098" target="blank"><img src="https://img.shields.io/twitter/follow/incognito_098?logo=twitter&style=for-the-badge" alt="incognito_098" /></a> </p>
 
+- Checkout my [Portfolio](https://davidondiege.pages.dev/)
 - 🌱 I’m currently learning **Tailwind CSS**
+- 🤔 I’m looking to collaborate on Ruby on Rails backend projects and learn Python
 
 <h3 align="left">Connect with me:</h3>
+
+![FRONTEND Badge](https://img.shields.io/badge/-FRONT_END-white?style=for-the-badge&labelColor=WHITE)
+
+[![HTML5 Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![React Badge](https://img.shields.io/badge/-React_Js-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<br />
+
+![BACKEND Badge](https://img.shields.io/badge/-BACK_END-white?style=for-the-badge&labelColor=WHITE)
+
+[![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=CC342D)](#)  [![Ruby on Rails Badge](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&labelColor=black&logo=rubyonrails&logoColor=CC0000)](#)  [![Ruby Sinatra Badge](https://img.shields.io/badge/-Sinatra-000000?style=for-the-badge&labelColor=black&logo=rubysinatra&logoColor=white)](#)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+### Other Technologies
+These are technologies I'm still learning/I have worked with but only a little
+<br />
+
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#)  [![Nodejs Badge](https://img.shields.io/badge/-NodeJs-3776AB?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3776AB)](#)  [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#)  [![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)](#)  
+
+<br />
+
+<details>
+<summary>
+  See more
+</summary>
+
+<br >
+
+
+#### Github Stats
+
+![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=vincexiv&count_private=true&theme=tokyonight&hide=contribs,prs)
+  
+
+
+
+
+
 <p align="left">
   <a href="mailto:davidondiege@gmail.com" target="blank"><img align="center" src="https://svgshare.com/i/q8j.svg" alt="davidondiege@gmail.com" height="28" width="36" /></a>
 <a href="https://twitter.com/incognito_098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="incognito_098" height="30" width="40" /></a>
@@ -69,3 +107,30 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-commit&" alt="david-commit" /></p>
 
 <!-- <img align = "left" width = "47%" src = "https://www.codewars.com/users/david-commit/badges/large"/> -->
+
+
+
+
+
+<!-- #### My Github stats
+
+![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincexiv&show_icons=true&theme=tokyonight) -->
+
+#### Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincexiv&layout=compact&theme=tokyonight&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+> **Note** Top languages is only a metric of the languages my public code consists of and doesn't reflect expertice or skill level.
+
+<!-- #### Github contribution graph
+
+[![Vincent's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vincexiv&theme=tokyonight)](https://github.com/vincexiv/github-readme-activity-graph) -->
+  
+
+<!-- Important sites
+1. https://raw.githubusercontent.com/ipenywis/ipenywis/master/README.md
+2. shields.io
+3. https://github.com/alexandresanlim/Badges4-README.md-Profile
+4. https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
+5. https://simpleicons.org/?q=typescript
+-->
