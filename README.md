@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:davidondiege@gmail.com" target="blank"><img align="center" src="https://svgshare.com/i/q8j.svg" alt="davidondiege@gmail.com" height="28" width="36" /></a>
 <a href="https://twitter.com/incognito_098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="incognito_098" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/david-ondiege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="incognito_098" height="30" width="40" /></a>
-<a href="mailto:davidondiege@gmail.com" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg" alt="davidondiege@gmail.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/david-ondiege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="incognito_098" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,7 +21,7 @@
 <!-- CSS3 -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <!-- BOOTSTRAP -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<!-- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  -->
 <!-- JS -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <!-- REACT -->
