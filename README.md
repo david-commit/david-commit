@@ -35,7 +35,7 @@ I'm a Fullstack web developer and IT support Engineer based in Nairobi, Kenya
 
 <br />
 
-Github Stats
+My Github Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=david-commit&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="david-commit" />
 
 </p>
@@ -51,6 +51,6 @@ Github Stats
 <!-- - 🌱 If you want to begin the journey of a web/application developer , I would recommend this course on [UDEMY](https://www.udemy.com/course/the-web-developer-bootcamp/)
  -->
 
-## My Github Stats
+## Other Github Stats
 
 ![David's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=davidondiege&theme=gotham&layout=compact)
