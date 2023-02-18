@@ -4,13 +4,13 @@ I'm a Fullstack web developer and IT support Engineer based in Nairobi, Kenya
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-commit&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="david-commit" />  <a href="https://twitter.com/incognito_098" target="blank"><img src="https://img.shields.io/twitter/follow/incognito_098?logo=twitter&style=for-the-badge" alt="incognito_098" /></a> </p>
 
 - 🖥️ Checkout my [Portfolio](https://davidondiege.pages.dev/)
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **NodeJS and Tailwind CSS**
 - 📝 I’m looking to collaborate on Frontend and/or Backend projects.
 
 <h3>Connect with me:</h3>
 
 <p align="left">
-  <a href="mailto:davidondiege@gmail.com" target="blank"><img align="center" src="https://svgshare.com/i/q8j.svg" alt="davidondiege@gmail.com" height="28" width="36" /></a>
+  <a href="mailto:davidondiege@gmail.com" target="blank"><img align="center" src="https://svgshare.com/i/q8j.svg" alt="davidondiege@gmail.com" height="28" width="36" /></a>&nbsp;
 <a href="https://twitter.com/incognito_098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="incognito_098" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/david-ondiege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="incognito_098" height="30" width="40" /></a> 
 </p>
