@@ -1,10 +1,11 @@
+
 # Hi 👋, I'm David Ondiege
 I'm a Fullstack web developer and IT support Engineer based in Nairobi, Kenya
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-commit&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="david-commit" />  <a href="https://twitter.com/incognito_098" target="blank"><img src="https://img.shields.io/twitter/follow/incognito_098?logo=twitter&style=for-the-badge" alt="incognito_098" /></a> </p>
 
 - 🖥️ Checkout my [Portfolio](https://davidondiege.pages.dev/)
-- 🌱 I’m currently learning **NodeJS and Tailwind CSS**
+- 🌱 I’m currently learning **Node and ExpressJS**
 - 📝 I’m looking to collaborate on Frontend and/or Backend projects.
 
 <h3>Connect with me:</h3>
@@ -36,10 +37,10 @@ I'm a Fullstack web developer and IT support Engineer based in Nairobi, Kenya
 <br />
 
 My Github Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=david-commit&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="david-commit" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=david-commit&show_icons=true&locale=en&theme=gotham&layout=compact" alt="david-commit" />
 
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=david-commit&show_icons=true&locale=en&theme=tokyonight" alt="david-commit" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-commit&theme=tokyonight" alt="david-commit" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=david-commit&show_icons=true&locale=en&theme=gotham" alt="david-commit" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-commit&theme=gotham" alt="david-commit" /></p>
 
 <details>
 <summary>
